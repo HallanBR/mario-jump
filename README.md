@@ -1,2 +1,2 @@
 # mario-jump
-para jogar, clique no link >> http://127.0.0.1:5500/index.html
+para jogar, clique no link >> https://hallanbr.github.io/mario-jump/index.html
